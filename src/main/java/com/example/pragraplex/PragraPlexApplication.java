@@ -9,7 +9,7 @@ public class PragraPlexApplication {
     public static void main(String[] args) {
         SpringApplication.run(PragraPlexApplication.class, args);
 
-
+        System.out.println("This  is Margi's Feature");
     }
 
 }
