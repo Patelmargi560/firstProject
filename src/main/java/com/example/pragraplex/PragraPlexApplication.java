@@ -10,6 +10,7 @@ public class PragraPlexApplication {
         SpringApplication.run(PragraPlexApplication.class, args);
 
         System.out.println("This  is Margi's Feature");
+        System.out.println("This  is Kunal's Feature");
     }
 
 }
